@@ -1,6 +1,6 @@
 # Bienvenidos a mi perfil :D
 
-## Sobre mi
+## 👤 Sobre mi
 - <img src="https://flagcdn.com/w20/ar.png"> Argentina 
 - 📚 Estudiante de **Licenciatura en Informática** (UNLP)
 
