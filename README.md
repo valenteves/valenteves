@@ -13,7 +13,7 @@
 
 <h1 align="center">Bienvenidos a mi perfil :D</h1>
 
-## 👤 Sobre mi
+## 👤 Sobre mí
 - <img src="https://flagcdn.com/w20/ar.png"> Argentina 
 - 📚 Estudiante de **Licenciatura en Informática** (UNLP)
 - 👨‍🏫 Ayudante en **Fundamentos de Organización de Datos** y **Diseño de Bases de Datos** (UNLP)
