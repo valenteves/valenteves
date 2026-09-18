@@ -7,8 +7,8 @@
 ## 🌎 Idiomas
 
 - <img src="https://flagcdn.com/w20/es.png"> **Español** — Nativo
-- :gb: **English** — Avanzado (C2)
-- <i class="flag flag-china"></i> **简体中文** — Básico (HSK2)
+- <img src="https://flagcdn.com/w20/gb.png"> **English** — Avanzado (C2)
+- <img src="https://flagcdn.com/w20/cn.png"> **简体中文** — Básico (HSK2)
 
 <!--
 **valenteves/valenteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
