@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/52/c9/db/52c9db7b50a8d92036b8367cf2c5287d.gif" width="200">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/52/c9/db/52c9db7b50a8d92036b8367cf2c5287d.gif" width="200">
+</p>
 
 # Bienvenidos a mi perfil :D
 
