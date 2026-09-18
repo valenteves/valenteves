@@ -6,9 +6,9 @@
 
 ## 🌎 Idiomas
 
-- 🇪🇸 **Español** — Nativo
-- 🇬🇧 **English** — Avanzado (C2)
-- 🇨🇳 **简体中文** — Básico (HSK2)
+- :es: **Español** — Nativo
+- :gb: **English** — Avanzado (C2)
+- :cn: **简体中文** — Básico (HSK2)
 
 <!--
 **valenteves/valenteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
