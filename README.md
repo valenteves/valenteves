@@ -1,8 +1,14 @@
 # Bienvenidos a mi perfil :D
 
 ## Sobre mi
-🌎 Argentina 
-📚 Estudiante de **Licenciatura en Informática** (UNLP)
+- 🇦🇷 Argentina 
+- 📚 Estudiante de **Licenciatura en Informática** (UNLP)
+
+## 🌎 Idiomas
+
+- 🇪🇸 **Español** — Nativo
+- 🇬🇧 **English** — Avanzado (C2)
+- 🇨🇳 **简体中文** — Básico (HSK2)
 
 <!--
 **valenteves/valenteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
